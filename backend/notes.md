@@ -1,0 +1,1 @@
+Middleware = Ek aise bich ka banda, jo client se aayi request ko process karta hai (jaise check karna, modify karna, ya log karna), fir usse route tak pahuchata hai.
